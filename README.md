@@ -9,5 +9,6 @@ Data structure and algorithm implementation in JavaScript.
   - Circular Queue
   - Priority
   - Deque
+- Linked List
 
 Will be adding more...

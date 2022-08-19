@@ -73,6 +73,7 @@ class CircularQueue {
   }
 }
 
+//  Usage
 const queue = new CircularQueue(2);
 queue.enQueue(1);
 queue.enQueue(2);

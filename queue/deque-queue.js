@@ -24,6 +24,8 @@ class Deque {
   }
 }
 
+// Usage
+
 d = new Deque();
 console.log(d.isEmpty());
 d.addRear(8);

@@ -48,6 +48,8 @@ function deleteNode(array, num) {
   }
 }
 
+
+// Usage
 arr = [];
 insert(arr, 3);
 insert(arr, 4);
