@@ -10,5 +10,6 @@ Data structure and algorithm implementation in JavaScript.
   - Priority
   - Deque
 - Linked List
+- Hash Table
 
 Will be adding more...

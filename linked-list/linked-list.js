@@ -1,4 +1,3 @@
-// https://www.programiz.com/dsa/linked-list-operations
 // Linked list simple implementation in javascript
 class Node {
   //  Creating a node
