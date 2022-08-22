@@ -12,6 +12,8 @@ Data structure and algorithm implementation using JavaScript.
 - Linked List
 - Hash Table
 - Heap
+- Tree
+  - Tree Traversal
 
 \*Will be adding more...
 
