@@ -14,6 +14,7 @@ Data structure and algorithm implementation using JavaScript.
 - Heap
 - Tree
   - Tree Traversal
+  - Binary Tree
 
 \*Will be adding more...
 
