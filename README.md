@@ -19,6 +19,17 @@ Data structure and algorithm implementation using JavaScript.
 
 \*Will be adding more...
 
+## Some terms:
+
+**Tree:**
+
+- **leaf/external node:** nodes without children are called leaf nodes or external nodes.
+- **internal node:** The node having at least a child node is called an internal node.
+- **edge:** It is the link between any two nodes.
+- **Root:** It is the topmost node of a tree.
+
+The node having at least a child node is called an internal node.
+
 ## Some good references for learning dsa
 
 - https://www.programiz.com/dsa/
