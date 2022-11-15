@@ -16,6 +16,7 @@ Data structure and algorithm implementation using JavaScript.
   - [Tree Traversal](/tree/tree-traversal.js)
   - [Binary Tree](/tree/binary-tree.js)
   - [Full Binary Tree](/tree/full-binary-tree.js)
+  - [Perfect Binary Tree](/tree/perfect-binary-tree.js)
 
 \*Will be adding more...
 
