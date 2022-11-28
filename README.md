@@ -18,6 +18,7 @@ Data structure and algorithm implementation using JavaScript.
   - [Full Binary Tree](/tree/full-binary-tree.js)
   - [Perfect Binary Tree](/tree/perfect-binary-tree.js)
   - [Complete Binary Tree](/tree/complete-binary-tree.js)
+  - [Balanced Binary Tree](/tree/balanced-binary-tree.js)
 
 \*Will be adding more...
 
